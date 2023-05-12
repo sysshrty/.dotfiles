@@ -1,6 +1,1 @@
-git init
-git add --all
-git commit -m "INIT commit"
-git branch -M main
-git remote add origin git@github.com:<your_git_usrname>/.dotfile
-git push -u origin main
+
